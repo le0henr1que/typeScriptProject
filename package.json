@@ -1,0 +1,23 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le0henr1que/typeScriptProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/le0henr1que/typeScriptProject/issues"
+  },
+  "homepage": "https://github.com/le0henr1que/typeScriptProject#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
